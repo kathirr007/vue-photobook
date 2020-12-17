@@ -1,4 +1,5 @@
-# aws-photobook-vue
+# Vue AWS PhotoBook
+## A PhotoBook Project using Vue.js and AWS services
 
 ## Project setup
 ```
